@@ -5,7 +5,7 @@
 目的是在linux环境下，实现简单的ifconfig功能</br>
 编译：</br>
 &nbsp;&nbsp;&nbsp;&nbsp;gcc write_ifconfig.c read_ifconfig.c main.c -o cj_ifconfig </br>
-运行</br>
+运行:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;./cj_ifconfig -h 获得帮助</br>
 具体可以参考main.c文件</br>
 
